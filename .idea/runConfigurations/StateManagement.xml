@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="StateManagement" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Assignment13.StateManagement" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="Assignment13.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
